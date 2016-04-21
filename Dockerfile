@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Stefan Baur
+MAINTAINER Maximilian Stauss
 
 COPY overlay/ /
 
