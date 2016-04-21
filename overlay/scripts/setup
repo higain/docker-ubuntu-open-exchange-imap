@@ -10,6 +10,9 @@ deb http://software.open-xchange.com/products/appsuite/stable/office-web/DebianW
 deb http://software.open-xchange.com/products/appsuite/stable/documentconverter-api/DebianWheezy /
 deb http://software.open-xchange.com/products/appsuite/stable/calcengine/DebianWheezy/ /
 
+# LDAP Support
+deb https://software.open-xchange.com/components/unsupported/oxldapsync/DebianWheezy/ /
+
 # if you have a valid maintenance subscription, please uncomment the 
 # following and add the ldb account data to the url so that the most recent
 # packages get installed
