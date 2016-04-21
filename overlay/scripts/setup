@@ -41,7 +41,8 @@ apt-get install -y --force-yes open-xchange open-xchange-authentication-imap \
   open-xchange-push-imapidle open-xchange-push-mailnotify \
   open-xchange-documentconverter-api calcengine open-xchange-documents-backend open-xchange-documents-ui open-xchange-documents-ui-static \
   hunspell hunspell-de-de hunspell-en-us \
-  paxctl netcat mysql-server
+  paxctl netcat mysql-server \
+  openldapsync
 
 apt-get upgrade -y --force-yes
 
